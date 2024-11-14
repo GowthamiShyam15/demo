@@ -19,7 +19,7 @@
     border-radius: 10px;
 }
 .todo-app h2{
-    color:#002765;
+    color:red;
     display: flex;
     align-items: center;
     /*justify-content: center;*/
